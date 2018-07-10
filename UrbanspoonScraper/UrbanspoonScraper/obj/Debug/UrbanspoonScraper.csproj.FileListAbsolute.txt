@@ -1,0 +1,14 @@
+C:\Users\s_viesin\Desktop\Projects\ScrappingData\UrbanspoonScraper\UrbanspoonScraper\obj\Debug\UrbanspoonScraper.csprojAssemblyReference.cache
+C:\Users\s_viesin\Desktop\Projects\ScrappingData\UrbanspoonScraper\UrbanspoonScraper\obj\Debug\UrbanspoonScraper.csproj.CoreCompileInputs.cache
+C:\Users\s_viesin\Desktop\Projects\ScrappingData\UrbanspoonScraper\UrbanspoonScraper\bin\Debug\phantomjs.exe
+C:\Users\s_viesin\Desktop\Projects\ScrappingData\UrbanspoonScraper\UrbanspoonScraper\bin\Debug\phantomjs-license.txt
+C:\Users\s_viesin\Desktop\Projects\ScrappingData\UrbanspoonScraper\UrbanspoonScraper\bin\Debug\UrbanspoonScraper.exe.config
+C:\Users\s_viesin\Desktop\Projects\ScrappingData\UrbanspoonScraper\UrbanspoonScraper\bin\Debug\UrbanspoonScraper.exe
+C:\Users\s_viesin\Desktop\Projects\ScrappingData\UrbanspoonScraper\UrbanspoonScraper\bin\Debug\UrbanspoonScraper.pdb
+C:\Users\s_viesin\Desktop\Projects\ScrappingData\UrbanspoonScraper\UrbanspoonScraper\bin\Debug\CsvHelper.dll
+C:\Users\s_viesin\Desktop\Projects\ScrappingData\UrbanspoonScraper\UrbanspoonScraper\bin\Debug\WebDriver.dll
+C:\Users\s_viesin\Desktop\Projects\ScrappingData\UrbanspoonScraper\UrbanspoonScraper\bin\Debug\CsvHelper.xml
+C:\Users\s_viesin\Desktop\Projects\ScrappingData\UrbanspoonScraper\UrbanspoonScraper\bin\Debug\WebDriver.xml
+C:\Users\s_viesin\Desktop\Projects\ScrappingData\UrbanspoonScraper\UrbanspoonScraper\obj\Debug\UrbanspoonScraper.csproj.CopyComplete
+C:\Users\s_viesin\Desktop\Projects\ScrappingData\UrbanspoonScraper\UrbanspoonScraper\obj\Debug\UrbanspoonScraper.exe
+C:\Users\s_viesin\Desktop\Projects\ScrappingData\UrbanspoonScraper\UrbanspoonScraper\obj\Debug\UrbanspoonScraper.pdb
